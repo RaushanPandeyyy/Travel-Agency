@@ -13,5 +13,16 @@ A responsive and user-friendly travel agency website that allows users to explor
 - CSS
 - JavaScript
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](home.png)
+
+### Packages Section
+![Destination](Destination.png)
+
+### Contact Page
+![Contact](contact.png)
+
 ## 👤 Author
 Raushan Pandey
